@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sri Raghul Krishna</h1>
-<h3 align="center">Full-Stack Developer | AI & Systems Learner | CSE @ JIT</h3>
+<h3 align="center">Full-Stack Developer | AI & ML Developer </h3>
 
 ---
 
