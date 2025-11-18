@@ -3,7 +3,7 @@
 
 ---
 
-## 🔹 About Me
+## 🎓  About Me
 
 - Computer Science Engineering student
 - Focused on **Full-Stack Development** and **AI/ML Foundations**  
@@ -14,30 +14,12 @@
 ## 🔹 Current Work
 
 - Developing REST APIs using **Node.js + Express + MongoDB**  
-- Learning **React.js** for dynamic front-end development  
-- Hosting applications on **AWS EC2 with NGINX**  
-- Practicing **Data Structures**, **Python fundamentals**, and **ML basics**  
+- Developing dynamic front-end web applications using **React.js**
+- Practicing **Data Structures and Algorithms**
 
 ---
 
-## 🔹 Experience
-
-**Software Developer Intern — ELGi Equipments (Jul 2025 – Nov 2025)**  
-- Built internal web applications using **JavaScript & Power Apps**  
-- Supported automation workflows and application improvements  
-- Collaborated with teams to deliver efficient software solutions  
-
----
-
-## 🔹 Projects
-
-- **Product Management API** — Node.js, Express, MongoDB 
-- **React To-Do App** — React, Vite, CSS  
-- **Static Landing Pages** — HTML5, CSS3, JS
-
----
-
-## 🔹 Tech Stack
+## 💻 Tech Stack
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -64,7 +46,7 @@
 
 ---
 
-## 🔹 Connect With Me
+## 🌐 Connect With Me
 
 <a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Sri%20Raghul%20Krishna-blue?style=for-the-badge&logo=linkedin" />
