@@ -13,7 +13,7 @@
 
 ## 🔹 Current Work
 
-- Developing REST APIs using **Node.js + Express + MongoDB**  
+- Developing APIs using **Node.js + Express + MongoDB**  
 - Developing dynamic front-end web applications using **React.js**
 - Practicing **Data Structures and Algorithms**
 
