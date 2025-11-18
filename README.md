@@ -51,11 +51,3 @@
 <a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Sri%20Raghul%20Krishna-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="mailto:raghularivalagan.cs@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/raghulari" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-raghulari-black?style=for-the-badge&logo=github" />
-</a>
