@@ -13,10 +13,10 @@
 
 ## 🔹 Current Work
 
--Designing and building end-to-end software solutions that address real-world problems
--Translating ideas into scalable, production-ready systems with a strong focus on quality and reliability
--Continuously learning and adopting modern engineering practices to improve system design and execution
--Integrating AI-driven thinking to enhance decision-making, automation, and product effectiveness
+- Designing and building end-to-end software solutions that address real-world problems
+- Translating ideas into scalable, production-ready systems with a strong focus on quality and reliability
+- Continuously learning and adopting modern engineering practices to improve system design and execution
+- Integrating AI-driven thinking to enhance decision-making, automation, and product effectiveness
 
 ---
 
