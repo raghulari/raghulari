@@ -6,7 +6,7 @@
 ## 🎓  About Me
 
 - Computer Science Engineering student
-- Focused on **Full-Stack Development** and **AI/ML Foundations**  
+- Focused on **Full-Stack Development**
 - Building production-ready web apps and APIs with modern frameworks  
 
 ---
@@ -16,7 +16,6 @@
 - Designing and building end-to-end software solutions that address real-world problems
 - Translating ideas into scalable, production-ready systems with a strong focus on quality and reliability
 - Continuously learning and adopting modern engineering practices to improve system design and execution
-- Integrating AI-driven thinking to enhance decision-making, automation, and product effectiveness
 
 ---
 
