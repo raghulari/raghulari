@@ -1,18 +1,18 @@
 <div align="center">
 
-# Sri Raghul Krishna
+# SRI RAGHUL KRISHNA
 
-### Full-Stack Developer • AI Builder • Startup Founder in Progress
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Builder;Startup+Founder+in+Progress;Building+Products+That+Matter" />
 
-<br>
+<br/>
 
-> Building world-class products that create real impact.
+### Building products, learning AI, and creating the future.
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
 ```yaml
 Name: Sri Raghul Krishna
@@ -41,7 +41,7 @@ Mission:
 
 ---
 
-## Tech Stack
+## ⚡ Technology Stack
 
 ### Languages
 
@@ -75,34 +75,40 @@ Mission:
 
 ---
 
-## What I'm Working On
+## 🚀 Current Focus
 
-* Building modern full-stack applications
-* Exploring AI-powered products
-* Learning scalable backend architecture
-* Creating startup-ready SaaS products
+* Building scalable full-stack applications
+* Exploring AI-powered software
+* Learning modern cloud infrastructure
+* Developing startup-ready products
 * Contributing to open-source projects
 
 ---
 
-## Current Goals
+## 🎯 2026 Goals
 
 * Master Next.js & TypeScript
 * Build AI-powered SaaS products
-* Learn advanced cloud technologies
-* Launch products used by real users
-* Grow as a developer and entrepreneur
+* Launch products with real users
+* Strengthen backend architecture skills
+* Grow the SRK brand
 
 ---
 
-## Connect
+## 🌐 Connect
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Raghul%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> **Build • Learn • Launch**
+<div align="center">
+
+### BUILD • LEARN • LAUNCH
+
+*"Turning ideas into products, one commit at a time."*
+
+</div>
