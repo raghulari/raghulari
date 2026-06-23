@@ -1,51 +1,140 @@
-<h1 align="center">Hi 👋 I'm Sri Raghul Krishna</h1>
-<h3 align="center">Full-Stack Developer | Exploring AI & ML </h3>
+<div align="center">
+
+# SRI RAGHUL KRISHNA
+
+### Full-Stack Developer • AI Builder • Future Startup Founder
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+AI+%26+Cloud+Technologies;Creating+Startup+Ready+Products;Always+Building+Something+New" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=raghulari&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🎓  About Me
+## 🚀 About Me
 
-- Computer Science Engineering student
-- Focused on **Full-Stack Development**
-- Building production-ready web apps and APIs with modern frameworks  
+```yaml
+Name: Sri Raghul Krishna
+GitHub: raghulari
+Role: Full-Stack Developer
 
----
+Education:
+  B.E Computer Science Engineering
 
-## 🔹 Current Work
+Focus Areas:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Cloud Computing
+  - System Design
+  - Startup Building
 
-- Designing and building end-to-end software solutions that address real-world problems
-- Translating ideas into scalable, production-ready systems with a strong focus on quality and reliability
-- Continuously learning and adopting modern engineering practices to improve system design and execution
+Currently Learning:
+  - Next.js
+  - TypeScript
+  - AI Engineering
+  - Advanced Backend Development
+
+Mission:
+  Build world-class products that create real impact.
+```
 
 ---
 
 ## 💻 Tech Stack
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
 
-### **Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,mysql" />
+</p>
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghulari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raghulari&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghulari&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Mastering Next.js & TypeScript
+* 🤖 Building AI-Powered Applications
+* ☁️ Learning Cloud Architecture
+* 🏗 Creating SaaS Products
+* 🌍 Growing the SRK Brand
+
+---
+
+## 🛠 Building
+
+```txt
+→ Full-Stack Web Applications
+→ AI Products & Automation Tools
+→ SaaS Platforms
+→ Open Source Projects
+→ Startup Ideas
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sri%20Raghul%20Krishna-blue?style=for-the-badge&logo=linkedin" />
+<div align="center">
+
+<a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan">
+  <img src="https://img.shields.io/badge/LinkedIn-Sri_Raghul_Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Build • Learn • Launch
+
+**Turning ideas into products, one commit at a time.**
+
+</div>
