@@ -85,16 +85,6 @@ Mission:
 
 ---
 
-## 🎯 2026 Goals
-
-* Master Next.js & TypeScript
-* Build AI-powered SaaS products
-* Launch products with real users
-* Strengthen backend architecture skills
-* Grow the SRK brand
-
----
-
 ## 🌐 Connect
 
 <p>
